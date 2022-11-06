@@ -1,7 +1,25 @@
-td {
+table {
+    border: 1px black; 
+}
+
+td:hover {
     text-align: center;
+    color: aqua;
+    background-color: black;
 }
 
 th {
     text-align: center;
+    color: crimson;
+    background-color: blueviolet;
 }
+
+tr, th {
+    background-color: aqua;
+    color: darkgoldenrod;
+}
+tr, td {
+    background-color: darkmagenta;
+    color: black;
+}
+

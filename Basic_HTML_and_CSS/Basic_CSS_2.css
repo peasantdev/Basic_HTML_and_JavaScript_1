@@ -10,4 +10,5 @@ p {
     font-size: medium;
     text-align: center;
     background-color: black;
+    text-shadow: 1px 1px red;
 }
